@@ -1,6 +1,6 @@
 # CSCI620
 
-#[What Does 'Big Data' Mean?](https://cacm.acm.org/blogs/blog-cacm/155468-what-does-big-data-mean/fulltext)
+# [What Does 'Big Data' Mean?](https://cacm.acm.org/blogs/blog-cacm/155468-what-does-big-data-mean/fulltext)
 
 Big Volume, Small Analytics
 
@@ -22,7 +22,7 @@ storage ideas, including compression and encryption. Sampling to cut down query 
 
 
 
-#[What Does 'Big Data' Mean? (Part 2)](https://cacm.acm.org/blogs/blog-cacm/156102-what-does-big-data-mean-part-2/fulltext)
+# [What Does 'Big Data' Mean? (Part 2)](https://cacm.acm.org/blogs/blog-cacm/156102-what-does-big-data-mean-part-2/fulltext)
 
 Big volume – big analytics
 
